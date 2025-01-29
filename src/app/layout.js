@@ -37,11 +37,11 @@ export const metadata = {
   openGraph: {
     title: 'XerxesCoder: Web2 & Web3 Development Expert',
     description: 'Fullstack developer building next-gen web experiences with Next.js and Solidity. Specializing in DeFi, DEX, and NFT development since 2020.',
-    //url: 'https://xerxescoder.com',
+    url: 'https://xerxescoder.vercel.app',
     siteName: 'XerxesCoder Portfolio',
 /*     images: [
       {
-        url: 'https://xerxescoder.com/og-image.png',
+        url: 'https://xerxescoder.vercel.app/og-image.png',
         width: 1200,
         height: 630,
       },
@@ -54,7 +54,7 @@ export const metadata = {
     title: 'XerxesCoder | Web3 & Fullstack Developer',
     description: 'Building the decentralized future with Next.js and Solidity. Expert in DEX development, smart contracts, and Web3 integration.',
     creator: '@Xerxescoder',
-    //images: ['https://xerxescoder.com/twitter-og.png'],
+    //images: ['https://xerxescoder.vercel.app/twitter-og.png'],
   },
   robots: {
     index: true,
