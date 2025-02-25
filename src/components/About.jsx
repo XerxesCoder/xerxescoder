@@ -112,7 +112,7 @@ const PortfolioHero = () => {
     },
     {
       icon: <TelegramIcon />,
-      url: "https://t.me/xerxescoder",
+      url: "https://t.me/xerxescodes",
       color: "cyan",
     },
     {
